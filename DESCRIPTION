@@ -1,7 +1,7 @@
 Package: MTSYS
 Type: Package
 Title: Methods in Mahalanobis-Taguchi (MT) System
-Version: 1.0.0
+Version: 1.2.0
 Date: 2017-07-28
 Authors@R: c(
     person("Akifumi", "Okayama", email = "akifumi.okayama@akane.waseda.jp",
@@ -24,18 +24,18 @@ Description: Mahalanobis-Taguchi (MT) system is a collection of multivariate
     of the T1 method, are included.
 Depends: R (>= 2.10)
 Imports: stats
-Suggests: testthat
+Suggests: testthat, covr
 Encoding: UTF-8
 License: MIT + file LICENSE
 RoxygenNote: 5.0.1
 LazyData: true
 URL: https://github.com/okayaa/MTSYS
 BugReports: https://github.com/okayaa/MTSYS/issues
-Packaged: 2017-08-02 10:49:58 UTC; OKAYAA
+Packaged: 2017-09-10 12:11:17 UTC; OKAYAA
 Author: Akifumi Okayama [aut, cre],
   Masato Ohkubo [ctb],
   Yasushi Nagata [ctb]
 Maintainer: Akifumi Okayama <akifumi.okayama@akane.waseda.jp>
 NeedsCompilation: no
 Repository: CRAN
-Date/Publication: 2017-08-02 12:36:29 UTC
+Date/Publication: 2017-09-10 16:44:06 UTC
